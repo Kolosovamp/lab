@@ -1,0 +1,4 @@
+/home/marina/lr3/root/add/add/file.txt
+/home/marina/lr3/root/add/mul/add/file4.txt
+/home/marina/lr3/root/add/mul/file2.txt
+/home/marina/lr3/root/add/mul/file3.txt
